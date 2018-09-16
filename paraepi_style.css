@@ -1,6 +1,6 @@
 
 body {
-	width       : 500px;
+	width       : 480px;
 	margin      : 0 auto;
 	padding-top: 8%;
 	background: url("background.png");
@@ -24,7 +24,8 @@ h2 {
 }
 
 #comment {
-	color : darkgrey;
+	color : dimgray;
+	font-size: 15px;
 }
 
 p {
