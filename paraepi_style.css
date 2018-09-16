@@ -1,0 +1,32 @@
+
+body {
+	width       : 500px;
+	margin      : 0 auto;
+	padding-top: 8%;
+	background: url("background.png");
+	background-position: cover;
+}
+
+#text {
+	background-color: white;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-family: "Times";
+	opacity: 0.9;
+}
+
+h2 {
+	color         : blue;
+	border-bottom : solid;
+	text-align: center;
+}
+
+#comment {
+	color : darkgrey;
+}
+
+p {
+	color : black;
+}
