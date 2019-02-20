@@ -1,4 +1,20 @@
 body {
-    background-image: url("noteback.png");
-    font-size: 90px;
+    font-size: 120px;
+    font-family: "Anton";
+    background-color: #040205;
+    max-width: 500px;
+    margin: auto;
+    padding-top: 40px;
+    justify-content: center;
+}
+
+.class {
+}
+
+a:link { 
+  color: pink;
+}
+
+a:visited { 
+  color: pink;
 }
