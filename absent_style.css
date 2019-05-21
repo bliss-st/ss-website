@@ -1,6 +1,7 @@
 body {
     font-family: Georgia;
     background: url('original.png');
+    background-size: 100%;
 }
 
 a:link { 
