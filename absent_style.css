@@ -1,12 +1,27 @@
 body {
-    font-family: Georgia;
-    background: url('original.png');
-    background-size: 100%;
+    background-image: url("ice.jpg");
 }
 
-a:link { 
-  color: #f484be;
+.title {
+	font-size:56px;
+	color:white;
+	font-family:arial;
+	text-align:center;
+	width:50%;
+	position:absolute;
+	z-index: 1;
+	height:64px;
+	margin-top:15%;
+	margin-left:25%;
 }
 
-a:visited { 
-  color: #f484be;
+.poem {
+	background-color:white;
+	margin: 8%;
+	font-family:"Georgia";
+	padding:4%;
+	margin-top:0%;
+	padding-top:36px;
+	margin-bottom:4%;
+}
+
