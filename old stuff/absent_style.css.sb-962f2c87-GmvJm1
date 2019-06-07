@@ -2,11 +2,11 @@ body {
 }
 
 .title {
-	font-size:18px;
+	font-size:14px;
 	color:black;
 	font-family:georgia;
 	text-align:left;
-	width:100%;
+	width:80%;
 	position:absolute;
 	z-index: 1;
 	height:64px;
@@ -20,7 +20,7 @@ a:link {
 
 /* visited link */
 a:visited {
-  color: darkgrey;
+  color: red;
 }
 
 /* mouse over link */
@@ -32,3 +32,4 @@ a:hover {
 a:active {
   color: darkgrey;
 }
+
