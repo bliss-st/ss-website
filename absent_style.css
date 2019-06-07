@@ -1,27 +1,34 @@
 body {
-    background-image: url("ice.jpg");
 }
 
 .title {
-	font-size:56px;
-	color:white;
-	font-family:arial;
-	text-align:center;
-	width:50%;
+	font-size:18px;
+	color:black;
+	font-family:georgia;
+	text-align:left;
+	width:100%;
 	position:absolute;
 	z-index: 1;
 	height:64px;
-	margin-top:15%;
-	margin-left:25%;
+	margin-left:2%;
 }
 
-.poem {
-	background-color:white;
-	margin: 8%;
-	font-family:"Georgia";
-	padding:4%;
-	margin-top:0%;
-	padding-top:36px;
-	margin-bottom:4%;
+/* unvisited link */
+a:link {
+  color: red;
 }
 
+/* visited link */
+a:visited {
+  color: darkgrey;
+}
+
+/* mouse over link */
+a:hover {
+  color: red;
+}
+
+/* selected link */
+a:active {
+  color: darkgrey;
+}
