@@ -2,9 +2,9 @@ body {
 }
 
 .title {
-	font-size:14px;
+	font-size:16px;
 	color:black;
-	font-family:georgia;
+	font-family:arial;
 	text-align:left;
 	width:80%;
 	position:absolute;
@@ -15,17 +15,17 @@ body {
 
 /* unvisited link */
 a:link {
-  color: red;
+  color: blue;
 }
 
 /* visited link */
 a:visited {
-  color: red;
+  color: blue;
 }
 
 /* mouse over link */
 a:hover {
-  color: red;
+  color: blue;
 }
 
 /* selected link */
