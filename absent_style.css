@@ -1,10 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 body {
+	background-image: url("backgroundf.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: white;
 }
 
 .title {
-	font-size:14px;
+	font-size:16px;
 	color:black;
-	font-family:arial;
+	font-family:Georgia;
 	text-align:left;
 	width:80%;
 	position:absolute;
@@ -15,12 +21,12 @@ body {
 
 /* unvisited link */
 a:link {
-  color: blue;
+  color: black;
 }
 
 /* visited link */
 a:visited {
-  color: blue;
+  color: black;
 }
 
 /* mouse over link */
@@ -30,6 +36,6 @@ a:hover {
 
 /* selected link */
 a:active {
-  color: darkgrey;
+  color: blue;
 }
 
