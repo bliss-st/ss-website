@@ -1,35 +1,33 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-
 body {
-    background: white;
+    background: #BFD0DA;
 }
 
 .text {
-    font-size: 14px;
-    color: black;
-    font-family: "Georgia";
+    font-size: 26px;
+    color: #22262A;
     text-align: left;
-    margin-left:2%;
-    margin-top:2%;
+    margin-left:3%;
+    margin-top:3%;
     line-height:1.4em;
+    font-family: 'Gotu', sans-serif;
 }
 
 /* unvisited link */
 a:link {
-    color: black
+    color: #19342D
 }
 
 /* visited link */
 a:visited {
-    color: black
+    color: #19342D
 }
 
 /* mouse over link */
 a:hover {
-    color: blue;
+    color: #FEDA15;
 }
 
 /* selected link */
 a:active {
-    color: pink;
+    color: #FEDA15;
 }
