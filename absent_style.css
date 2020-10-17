@@ -1,15 +1,17 @@
+  @import url('https://fonts.googleapis.com/css2?family=Gotu&display=swap');
+  
 body {
-    background: #BFD0DA;
+    background: white;
 }
 
 .text {
-    font-size: 26px;
-    color: #22262A;
+    font-size: 14px;
+    color: black;
     text-align: left;
-    margin-left:3%;
-    margin-top:3%;
+    margin-left:2%;
+    margin-top:2%;
     line-height:1.4em;
-    font-family: 'Gotu', sans-serif;
+    font-family: "Georgia"
 }
 
 /* unvisited link */
