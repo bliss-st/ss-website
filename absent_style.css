@@ -1,33 +1,44 @@
 body {
-    background: white;
+    background: #fefffc;
+}
+
+.image {
+    font-size: 16px;
+    color: black;
+    text-align: left;
+   display: flex;
+  justify-content: center;
+    line-height:1.4em;
+    font-family: "Georgia";
+    margin-top:15%;
 }
 
 .text {
     font-size: 14px;
     color: black;
-    text-align: left;
-    margin-left:2%;
-    margin-top:2%;
     line-height:1.4em;
-    font-family: "Georgia"
+    font-family: "Georgia";
+    margin-top:2%;
+    margin-left:2%;
 }
+
 
 /* unvisited link */
 a:link {
-    color: #19342D
+    color: blue
 }
 
 /* visited link */
 a:visited {
-    color: #19342D
+    color: green
 }
 
 /* mouse over link */
 a:hover {
-    color: #FEDA15;
+    color: red;
 }
 
 /* selected link */
 a:active {
-    color: #FEDA15;
+    color: blue;
 }
