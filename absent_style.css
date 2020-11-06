@@ -3,25 +3,48 @@ body {
 }
 
 .image {
-    font-size: 16px;
+    font-size: 14px;
     color: black;
     text-align: left;
    display: flex;
   justify-content: center;
     line-height:1.4em;
-    font-family: "Georgia";
+    font-family: "Verdana";
     margin-top:15%;
 }
 
 .text {
-    font-size: 14px;
+    font-size: 16px;
     color: black;
     line-height:1.4em;
-    font-family: "Georgia";
-    margin-top:2%;
-    margin-left:2%;
+    font-family: "Georgia";;
+    margin:2%;
+    padding-bottom:3%;
+    justify-content:center;
 }
 
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #fefffc;
+  color: white;
+  font-size: 30px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: lightgrey;
+  color: black;
+  text-align: center;
+  font-size:14px;
+  font-family:"Arial";
+padding:6px;}
+
+h3 {
+    font-family:"Arial";}
 
 /* unvisited link */
 a:link {
@@ -35,10 +58,10 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-    color: red;
+     color:red;
 }
 
 /* selected link */
 a:active {
-    color: blue;
+    color: red;
 }
