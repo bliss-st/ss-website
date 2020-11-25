@@ -1,5 +1,6 @@
 body {
-    background: #fefffc;
+    background-image: url("background.jpg");
+    background-size:cover;
 }
 
 .image {
@@ -14,21 +15,20 @@ body {
 }
 
 .text {
-    font-size: 16px;
     color: black;
-    line-height:1.4em;
-    font-family: "Georgia";;
     margin:2%;
-    padding-bottom:3%;
     justify-content:center;
+    text-align:center;
+    background-color:white;
+    padding:2%;
 }
 
 .header {
-  padding: 60px;
   text-align: center;
-  background: #fefffc;
-  color: white;
-  font-size: 30px;
+  padding:2%;
+  margin:2%;
+  background:black;
+  color:white;
 }
 
 .footer {
@@ -40,28 +40,9 @@ body {
   color: black;
   text-align: center;
   font-size:14px;
-  font-family:"Arial";
+  font-family:"Verdana";
 padding:6px;}
 
-h3 {
-    font-family:"Arial";}
-
-/* unvisited link */
-a:link {
-    color: blue
-}
-
-/* visited link */
 a:visited {
-    color: green
-}
-
-/* mouse over link */
-a:hover {
-     color:red;
-}
-
-/* selected link */
-a:active {
-    color: red;
+  color: #FF69B4;
 }
