@@ -1,49 +1,63 @@
 body {
-    background-image: url("background.jpg");
-    background-size:cover;
-}
-
-.image {
-    font-size: 14px;
-    color: black;
-    text-align: left;
-   display: flex;
-  justify-content: center;
-    line-height:1.4em;
-    font-family: "Verdana";
-    margin-top:15%;
+    background-color:white;
 }
 
 .text {
     color: black;
     margin:2%;
-    justify-content:center;
-    text-align:center;
+    text-align:left;
     background-color:white;
-    padding:4%;
-    padding-top:2%;
+    padding:2%;
+    font-family:Castoro;
 }
 
 .header {
   text-align: center;
   padding:2%;
   margin:2%;
-  background:black;
-  color:white;
+  background:white;
+  color:black;
+  text-align:left;
 }
 
-.footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color: lightgrey;
-  color: black;
+.frontheader {
   text-align: center;
-  font-size:14px;
-  font-family:"Verdana";
-padding:6px;}
+  padding:2%;
+  margin-left:18%;
+  margin-right:18%;
+  background:white;
+  color:black;
+  margin-top:20%;
+}
+
+.sidenav {
+  width: 10%; /* Set the width of the sidebar */
+  height:100%;
+  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  right: 0;
+  background-color: white; /* Black */
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding: 6%;
+}
 
 a:visited {
-  color: #FF69B4;
+  color: darkgrey;
+}
+
+a:link {
+  color:darkgrey;
+}
+
+h1 {
+  font-family:Arial Black;
+}
+
+h3 {
+  font-family:Arial Black;
+}
+
+h4 {
+  font-family:Arial Black;
 }
