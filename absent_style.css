@@ -9,6 +9,7 @@ body {
     background-color:white;
     padding:2%;
     font-family:Castoro;
+    margin-right:22%;
 }
 
 .header {
@@ -28,6 +29,7 @@ body {
   background:white;
   color:black;
   margin-top:20%;
+  font-family:Castoro;
 }
 
 .sidenav {
@@ -43,11 +45,17 @@ body {
 }
 
 a:visited {
-  color: darkgrey;
+  color: #FFA62F;
+  text-decoration: none;
 }
 
 a:link {
   color:darkgrey;
+  text-decoration: none;
+}
+
+a:hover {
+  color:#FFA62F;
 }
 
 h1 {
