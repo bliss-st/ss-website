@@ -8,7 +8,7 @@ body {
     text-align:left;
     background-color:white;
     padding:2%;
-    font-family:Castoro;
+    font-family:Georgia;
 }
 
 .header {
@@ -28,7 +28,7 @@ body {
   background:white;
   color:black;
   margin-top:20%;
-  font-family:Castoro;
+  font-family:Georgia;
 }
 
 .sidenav {
@@ -44,27 +44,27 @@ body {
 }
 
 a:visited {
-  color: #FFA62F;
+  color: ;
   text-decoration: none;
 }
 
 a:link {
-  color:darkgrey;
+  color:;
   text-decoration: none;
 }
 
 a:hover {
-  color:#FFA62F;
+  color:;
 }
 
 h1 {
-  font-family:Arial Black, Lato, sans-serif;
+  font-family:Verdana;
 }
 
 h3 {
-  font-family:Arial Black, Lato, sans-serif;
+  font-family:Verdana;
 }
 
 h4 {
-  font-family:Arial Black, Lato, sans-serif;
+  font-family:Verdana;
 }
