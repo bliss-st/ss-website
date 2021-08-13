@@ -43,6 +43,12 @@ body {
   padding: 6%;
 }
 
+blockquote {
+  font-size: 90%;
+}
+
+
+
 a:visited {
   color: ;
   text-decoration: none;
@@ -63,8 +69,11 @@ h1 {
 
 h3 {
   font-family:Verdana;
+  color: tomato;
 }
 
 h4 {
   font-family:Verdana;
+  padding-top: 1%;
+  opacity: 90%;
 }
