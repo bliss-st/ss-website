@@ -8,7 +8,7 @@ body {
     text-align:left;
     background-color:white;
     padding:2%;
-    font-family:Georgia;
+    font-family:"Kumbh Sans";
 }
 
 .header {
@@ -28,7 +28,7 @@ body {
   background:white;
   color:black;
   margin-top:20%;
-  font-family:Georgia;
+  font-family: "Kumbh Sans", sans-serif;
 }
 
 .sidenav {
@@ -62,16 +62,15 @@ a:hover {
 }
 
 h1 {
-  font-family:Verdana;
+  font-family: "Kumbh Sans", sans-serif;
+  font-size: 220%;
 }
 
 h3 {
-  font-family:Verdana;
-  color: tomato;
+   font-family: "Kumbh Sans", sans-serif;
 }
 
 h4 {
-  font-family:Verdana;
+  font-family: "Kumbh Sans", sans-serif;
   padding-top: 1%;
-  opacity: 90%;
 }
