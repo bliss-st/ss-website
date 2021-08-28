@@ -8,7 +8,7 @@ body {
     text-align:left;
     background-color:white;
     padding:2%;
-    font-family:"Kumbh Sans";
+    font-family: "Georgia";
 }
 
 .header {
@@ -25,22 +25,10 @@ body {
   padding:2%;
   margin-left:18%;
   margin-right:18%;
-  background:white;
+  background:transparent;
   color:black;
-  margin-top:20%;
-  font-family: "Kumbh Sans", sans-serif;
-}
-
-.sidenav {
-  width: 10%; /* Set the width of the sidebar */
-  height:100%;
-  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
-  z-index: 1; /* Stay on top */
-  top: 0; /* Stay at the top */
-  right: 0;
-  background-color: white; /* Black */
-  overflow-x: hidden; /* Disable horizontal scroll */
-  padding: 6%;
+  margin-top:4%;
+  font-family: "Georgia";
 }
 
 blockquote {
@@ -48,7 +36,6 @@ blockquote {
 }
 
 a:visited {
-  color: ;
   text-decoration: none;
 }
 
@@ -58,7 +45,7 @@ a:link {
 }
 
 a:hover {
-  color:;
+  text-decoration: underline;
 }
 
 h1 {
@@ -67,10 +54,63 @@ h1 {
 }
 
 h3 {
-   font-family: "Kumbh Sans", sans-serif;
+   font-family: "Georgia", sans-serif;
 }
 
 h4 {
   font-family: "Kumbh Sans", sans-serif;
   padding-top: 1%;
+}
+
+.blinking-cursor {
+  -webkit-animation: 1s blink step-end infinite;
+  -moz-animation: 1s blink step-end infinite;
+  -ms-animation: 1s blink step-end infinite;
+  -o-animation: 1s blink step-end infinite;
+  animation: 1s blink step-end infinite;
+}
+
+@keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
+}
+
+@-moz-keyframes blink {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
+}
+
+@-webkit-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
+}
+
+@-ms-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
+}
+
+@-o-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
 }
