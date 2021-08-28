@@ -1,34 +1,32 @@
 body {
-    background-color:white;
+    background-color:black;
+    opacity: 90%;
 }
 
 .text {
     color: black;
     margin:2%;
     text-align:left;
-    background-color:white;
     padding:2%;
-    font-family: "Georgia";
+    font-family: "Unna";
 }
 
 .header {
+  color: white;
+  font-family: "Unna";
+  font-size: 0%;
   text-align: center;
-  padding:2%;
-  margin:2%;
-  background:white;
-  color:black;
-  text-align:left;
 }
 
 .frontheader {
   text-align: center;
   padding:2%;
-  margin-left:18%;
-  margin-right:18%;
+  margin-left:11%;
+  margin-right:11%;
   background:transparent;
-  color:black;
-  margin-top:4%;
-  font-family: "Georgia";
+  color:white;
+  font-family: "Unna";
+  font-size: 130%;
 }
 
 blockquote {
@@ -37,10 +35,11 @@ blockquote {
 
 a:visited {
   text-decoration: none;
+  color: orange;
 }
 
 a:link {
-  color:;
+  color: darkgrey;
   text-decoration: none;
 }
 
@@ -54,63 +53,10 @@ h1 {
 }
 
 h3 {
-   font-family: "Georgia", sans-serif;
+   font-family: "Unna", sans-serif;
 }
 
 h4 {
   font-family: "Kumbh Sans", sans-serif;
   padding-top: 1%;
-}
-
-.blinking-cursor {
-  -webkit-animation: 1s blink step-end infinite;
-  -moz-animation: 1s blink step-end infinite;
-  -ms-animation: 1s blink step-end infinite;
-  -o-animation: 1s blink step-end infinite;
-  animation: 1s blink step-end infinite;
-}
-
-@keyframes "blink" {
-  from, to {
-    color: transparent;
-  }
-  50% {
-    color: black;
-  }
-}
-
-@-moz-keyframes blink {
-  from, to {
-    color: transparent;
-  }
-  50% {
-    color: black;
-  }
-}
-
-@-webkit-keyframes "blink" {
-  from, to {
-    color: transparent;
-  }
-  50% {
-    color: black;
-  }
-}
-
-@-ms-keyframes "blink" {
-  from, to {
-    color: transparent;
-  }
-  50% {
-    color: black;
-  }
-}
-
-@-o-keyframes "blink" {
-  from, to {
-    color: transparent;
-  }
-  50% {
-    color: black;
-  }
 }
