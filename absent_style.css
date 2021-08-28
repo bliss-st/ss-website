@@ -1,5 +1,5 @@
 body {
-    background-color:black;
+    background-color:white;
     opacity: 90%;
 }
 
@@ -8,12 +8,12 @@ body {
     margin:2%;
     text-align:left;
     padding:2%;
-    font-family: "Unna";
+    font-family: "Georgia";
 }
 
 .header {
-  color: white;
-  font-family: "Unna";
+  color: black;
+  font-family: "Georgia";
   font-size: 0%;
   text-align: center;
 }
@@ -24,9 +24,8 @@ body {
   margin-left:11%;
   margin-right:11%;
   background:transparent;
-  color:white;
-  font-family: "Unna";
-  font-size: 130%;
+  color:black;
+  font-family: "Georgia";
 }
 
 blockquote {
@@ -34,12 +33,12 @@ blockquote {
 }
 
 a:visited {
-  text-decoration: none;
-  color: orange;
+  text-decoration: underline;
+  color: purple;
 }
 
 a:link {
-  color: darkgrey;
+  color: blue;
   text-decoration: none;
 }
 
@@ -53,7 +52,7 @@ h1 {
 }
 
 h3 {
-   font-family: "Unna", sans-serif;
+   font-family: "Georgia", sans-serif;
 }
 
 h4 {
