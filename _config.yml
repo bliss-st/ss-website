@@ -1,0 +1,15 @@
+# Site settings
+title: in the solar wind
+description: >
+    poems and a few other things
+author: Serena
+email: ss3789990@gmail.com@gmail.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "serenasol.in" # the base hostname & protocol for your site
+
+# Build settings
+include: [_pages]
+markdown: kramdown
+permalink: /:year/:month/:title
+sass:
+    style: compressed
