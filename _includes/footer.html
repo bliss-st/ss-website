@@ -1,3 +1,5 @@
 <footer class="c-page__footer">
+    {% if page.title == 'Home' %}
     <p>last updated {{ 'now' | date: '%B %d, %Y' }}</p>
+    {% endif %}
 </footer>

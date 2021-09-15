@@ -1,11 +1,12 @@
 # Site settings
-title: In the Solar Wind
+title: in the solar wind
 description: >
     Hi, it's Serena. I post some poems and other things I like here.
 author: Serena
 email: ss3789990@gmail.com@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "serenasol.in" # the base hostname & protocol for your site
+theme_mode: standard
 
 # Build settings
 include: [_pages]
@@ -13,3 +14,4 @@ markdown: kramdown
 permalink: /:year/:month/:title
 sass:
     style: compressed
+
