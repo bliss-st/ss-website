@@ -4,6 +4,9 @@ title: "“Walkthrough”"
 date: '2021-09-20'
 tags: [mypoems]
 ---
+
+![walkthrough](/assets/walkthrough.png)
+
 As I am unable to imagine<br>
 that the dragon has shadow<br>
 powers, or double damage<br>
