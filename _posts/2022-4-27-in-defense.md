@@ -19,4 +19,6 @@ To me the most important aspect of thinking and writing well is simply doing it 
 
 The larger scam of self-help courses with an intellectual facelift strikes me as less predatory than it is opportunistic, and it's not lost on me that Murphy [sells a product]("https://indiethinkers.org/") that isn't <em>so</em> dissimilar. Most of what I see people paying for in the Roam world is [custom code]("https://roamjs.com/extensions/smartblocks/smartblocks_store") that enables user-specific tools—a built-in dictionary, Zotero integration, etc. Of course Roam won't make you a better thinker or writer, especially if you're spending all your time "prettifying" your graph. But if you can build a system that enables you to accumulate and analyze knowledge in a way that's relevant to you, why wouldn't you? 
 
+*
+
 ![roam](/assets/roam.png)
