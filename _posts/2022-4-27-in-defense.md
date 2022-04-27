@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "In Defense of Personal Knowledge Management"
+title: "In Defense of the Knowledge Graph"
 date: '2022-4-27'
 tags: [personal]
 ---
