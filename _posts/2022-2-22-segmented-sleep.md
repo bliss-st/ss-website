@@ -5,7 +5,9 @@ date: '2022-2-22'
 tags: [personal]
 ---
 
-![boxer](/assets/sleep.png)
+![sleep](/assets/sleep.png)
+
+<em>Written for a zine that doesn't look like it's happening after all.</em>
 
 Like step-counting and intermittent fasting, segmented or “biphasic” sleep is trending. Its proponents argue that eight unbroken hours of shut-eye is neither necessary nor even natural. Biphasic sleep was first described as such in the early 2000s, when sleep scholar A. Roger Ekirch showed that from the beginning of recorded history until the twentieth century, people around the world generally slept in two phases. Per Ekrich, the earliest written reference to a “first sleep” (implying the existence of a second) was in Homer’s Odyssey. 
 
