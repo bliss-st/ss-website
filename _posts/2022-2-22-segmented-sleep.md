@@ -9,7 +9,7 @@ tags: [personal]
 
 <em>Written for a zine that doesn't look like it's happening after all.</em>
 
-Like step-counting and intermittent fasting, segmented or “biphasic” sleep is trending. Its proponents argue that eight unbroken hours of shut-eye is neither necessary nor even natural. Biphasic sleep was first described as such in the early 2000s, when sleep scholar A. Roger Ekirch showed that from the beginning of recorded history until the twentieth century, people around the world generally slept in two phases. Per Ekrich, the earliest written reference to a “first sleep” (implying the existence of a second) was in Homer’s Odyssey. 
+Like step-counting and intermittent fasting, segmented or “biphasic” sleep is trending. Its proponents argue that eight unbroken hours of shut-eye is neither necessary nor even natural. Biphasic sleep was first described as such in the early 2000s, when sleep scholar A. Roger Ekirch showed that from the beginning of recorded history until the twentieth century, people around the world generally slept in two phases. Per Ekrich, the earliest written reference to a “first sleep” (implying the existence of a second) was in the <em>Odyssey</em>. 
 
 In warm regions, segmented sleep meant a night sleep and an afternoon nap. In cold countries like England, both intervals of sleep took place at night. Between these night sleeps, there was an hour or so which was used to “meditate, make love, and converse,” as Ekrich puts it. Friendship, romance, child-rearing, literature, art, prayer—imagine if everyone had time devoted to these.
  
