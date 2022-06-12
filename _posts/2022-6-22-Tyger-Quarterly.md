@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tyger Quarterly"
-date: '2022-6-22'
+date: '2022-6-12'
 tags: [mypoems]
 ---
 
