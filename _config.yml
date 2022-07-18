@@ -14,8 +14,3 @@ markdown: kramdown
 permalink: /:year/:month/:title
 sass:
     style: compressed
-
-# --- List of links in the navigation bar --- #
-
-navbar-links:
-  Writing: "Writing"
