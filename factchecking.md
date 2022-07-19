@@ -32,6 +32,7 @@ Since 2020 I have been editing and fact-checking books, articles, podcasts, and 
 * forthcoming Jenn Shapland title (Pantheon, 2023)
 * editorial projects for recent titles from <a href="worldpoetrybooks.com">World Poetry Books</a>
 * <em>Dance Theatre of Harlem: A History, A Movement, A Celebration</em> (Kensington, 2021)
+* Editing, typesetting, and design for Åke Hodell's <a href="https://uglyducklingpresse.org/publications/the-marathon-poet/"><em>The Marathon Poet</em></a> as well as other Ugly Duckling Presse titles (2019-2020)
 <br>
 
 ## Miscellaneous

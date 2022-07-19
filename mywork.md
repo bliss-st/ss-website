@@ -19,7 +19,6 @@ permalink: /Writing/
 * "Disappearing" and "You Drive" at <a href="http://sixthfinch.com/solin2.html"><em>Sixth Finch</em></a>
 * "Sunglasses" at <a href="https://www.dreampoppress.net/serena-solin/"><em>Dream Pop Journal</em></a>
 * Interview with Maryam Monalisa Gharavi at <a href="https://www.asymptotejournal.com/blog/2020/09/21/sadness-has-no-end-happiness-does-an-interview-with-maryam-monalisa-gharavi/"><em>Asymptote</em></a> and <a href="https://www.poetrynw.org/interview-when-haptic-touch-is-removed-a-conversation-with-maryam-monalisa-gharavi/"><em>Poetry Northwest</em></a>
-* Editing, typesetting, and design for Åke Hodell's <a href="https://uglyducklingpresse.org/publications/the-marathon-poet/"><em>The Marathon Poet</em></a> as well as other Ugly Duckling Presse titles
 <br>
 
 ## 2019
