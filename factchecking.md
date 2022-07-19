@@ -19,7 +19,8 @@ Since 2020 I have been editing and fact-checking books, articles, podcasts, and 
 * <a href="https://www.popularmechanics.com/cars/a39813806/theres-an-army-of-thieves-coming-for-your-catalytic-converter/">"There's an Army of Thieves Coming for Your Catalytic Converter"</a> for <em>Popular Mechanics</em>
 * <a href="https://www.marieclaire.com/fashion/sustainable-denim/">"Sustainable Denim"</a> for <em>Marie Claire</em>
 <br>
-* <a href="https://www.vox.com/the-goods/22760163/steroids-hgh-hollywood-actors-peds-performance-enhancing-drugs">"Performance Enhancing Drugs: The Open Secret to Looking like a Superhero"</a> for <em>Vox</em>
+* <a href="https://www.vox.com/the-goods/22760163/steroids-hgh-hollywood-actors-peds-performance-enhancing-drugs">"Performance Enhancing Drugs: The Open Secret to Looking Like a Superhero"</a> for <em>Vox</em>
+* <a href="https://www.bicycling.com/culture/a37102070/hannah-roberts-tokyo-olympics/">"Hannah Roberts and the Future of Women's BMX"</a> for <em>Bicycling</em>
 
 ## Podcasts
 * forthcoming podcast, Sirius XM
@@ -30,9 +31,9 @@ Since 2020 I have been editing and fact-checking books, articles, podcasts, and 
 
 ## Books
 * forthcoming Jenn Shapland title (Pantheon, 2023)
+* editorial projects for recent titles from <a href="worldpoetrybooks.com">World Poetry Books</a>
 * <em>Dance Theatre of Harlem: A History, A Movement, A Celebration</em> (Kensington, 2021)
 <br>
-* editorial projects for recent titles from <a href="worldpoetrybooks.com">World Poetry Books</a>
 
 ## Miscellaneous
 * <em><a href="https://www.gossamer.co/">Gossamer</a></em>, issues 8 and 9
