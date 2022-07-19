@@ -32,6 +32,7 @@ Since 2020 I have been editing and fact-checking books, articles, podcasts, and 
 * forthcoming Jenn Shapland title (Pantheon, 2023)
 * <em>Dance Theatre of Harlem: A History, A Movement, A Celebration</em> (Kensington, 2021)
 <br>
+* editorial projects for recent titles from <a href="worldpoetrybooks.com">World Poetry Books</a>
 
 ## Miscellaneous
-* <em>Gossamer</em>, issues 8 and 9
+* <em><a href="https://www.gossamer.co/">Gossamer</a></em>, issues 8 and 9
