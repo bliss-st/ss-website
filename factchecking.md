@@ -17,7 +17,7 @@ Since 2020 I have been editing and fact-checking books, articles, podcasts, and 
 * <a href="https://www.popularmechanics.com/technology/a36367690/humans-develop-sixth-sense-echolocation/">"Humans Could Develop a Sixth Sense, Scientists Say"</a> for <em>Popular Mechanics</em>
 * <a href="https://www.popularmechanics.com/military/a40298287/drone-fighting-ukraine-war-russia/">"Every. Single. Drone. Fighting In Russia's War Against Ukraine"</a> for <em>Popular Mechanics</em>
 * <a href="https://www.popularmechanics.com/cars/a39813806/theres-an-army-of-thieves-coming-for-your-catalytic-converter/">"There's an Army of Thieves Coming for Your Catalytic Converter"</a> for <em>Popular Mechanics</em>
-* <a href="https://www.marieclaire.com/fashion/sustainable-denim/">"Sustainable Denim"</a> for <em>Marie Claire</em>
+* <a href="https://www.marieclaire.com/fashion/sustainable-denim/">"Everything You Wanted to Know About Sustainable Denim But Were Afraid to Ask"</a> for <em>Marie Claire</em>
 <br>
 * <a href="https://www.vox.com/the-goods/22760163/steroids-hgh-hollywood-actors-peds-performance-enhancing-drugs">"Performance Enhancing Drugs: The Open Secret to Looking Like a Superhero"</a> for <em>Vox</em>
 * <a href="https://www.bicycling.com/culture/a37102070/hannah-roberts-tokyo-olympics/">"Hannah Roberts and the Future of Women's BMX"</a> for <em>Bicycling</em>
