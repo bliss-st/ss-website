@@ -9,7 +9,6 @@ Since 2020 I have been editing and fact-checking books, articles, podcasts, and 
 <br>
 
 ## Selected Articles
-
 * <a href="https://www.mic.com/impact/dads-against-sexual-predators-youtube">"Dads Against Predators"</a> for <em>Mic.com</em>
 * <a href="https://www.theverge.com/c/22925906/pornhub-mindgeek-content-moderation">"Inside Pornhub"</a> for <em>The Verge</em>
 * <a href="https://www.theverge.com/c/23138305/ebird-cornell-lab-birding-climate-change-research">"A Once in a Lifetime Bird"</a> for <em>The Verge</em>
@@ -24,9 +23,9 @@ Since 2020 I have been editing and fact-checking books, articles, podcasts, and 
 
 ## Podcasts
 * forthcoming podcast, Sirius XM
-* <em>Hell or High Water</em>
-* <em>Land of the Giants</em>, season 5
-* <em>Nice Try!</em>, season 2
+* forthcoming episodes of <em>Hell or High Water</em>
+* <em><a href="https://www.vox.com/land-of-the-giants-podcast">Land of the Giants</a></em>, season 5
+* <em><a href="https://podcasts.voxmedia.com/show/nice-try">Nice Try!</a></em>, season 2
 <br>
 
 ## Books
