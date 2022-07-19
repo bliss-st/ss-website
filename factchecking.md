@@ -4,7 +4,7 @@ title: Fact-checking
 permalink: /Factchecking/
 ---
 
-Since 2020 I have been editing and fact-checking books, articles, podcasts, and periodicals. I have worked with brands such as <em>The Verge</em>, <em>Vox</em>, <em>The New Yorker</em>, <em>Popular Mechanics</em>, <em>Bicycling</em>, <em>Runner's World</em>, <em>Marie Claire</em>, and many others. If you are in need of fact-checking services, reach out to me for a quote at serena.solin@gmail.com.
+Since 2020 I have been fact-checking books, articles, podcasts, and periodicals. I have worked with brands such as <em>The Verge</em>, <em>Vox</em>, <em>The New Yorker</em>, <em>Popular Mechanics</em>, <em>Bicycling</em>, <em>Runner's World</em>, <em>Marie Claire</em>, and many others. If you are in need of fact-checking services, reach out to me for a quote at serena.solin@gmail.com.
 
 <br>
 
@@ -36,4 +36,4 @@ Since 2020 I have been editing and fact-checking books, articles, podcasts, and 
 <br>
 
 ## Miscellaneous
-* <em><a href="https://www.gossamer.co/">Gossamer</a></em>, issues 8 and 9
+* fact-checking and editing for <em><a href="https://www.gossamer.co/">Gossamer</a></em>, issues 8 and 9
