@@ -10,13 +10,16 @@ Since 2020 I have been editing and fact-checking books, articles, podcasts, and 
 
 ## Selected Articles
 
-* <a href="https://www.mic.com/impact/dads-against-sexual-predators-youtube">"Dads Against Predators"</a> for <em>Mic</em>
+* <a href="https://www.mic.com/impact/dads-against-sexual-predators-youtube">"Dads Against Predators"</a> for <em>Mic.com</em>
 * <a href="https://www.theverge.com/c/22925906/pornhub-mindgeek-content-moderation">"Inside Pornhub"</a> for <em>The Verge</em>
+* <a href="https://www.theverge.com/c/23138305/ebird-cornell-lab-birding-climate-change-research">"A Once in a Lifetime Bird"</a> for <em>The Verge</em>
 * <a href="https://www.theverge.com/c/23157354/doctor-donor-fertility-fraud-ancestry-23andme-dna-test">"Donor Doctor Fertility Fraud"</a> for <em>The Verge</em>
-* <a href="https://www.popularmechanics.com/military/a40298287/drone-fighting-ukraine-war-russia/">"There's an Army of Thieves Coming for Your Catalytic Converter"</a> for <em>Popular Mechanics</em>
+* <a href="https://www.popularmechanics.com/military/a40298287/drone-fighting-ukraine-war-russia/">"Humans Could Develop a Sixth Sense, Scientists Say"</a> for <em>Popular Mechanics</em>
+* * <a href="https://www.popularmechanics.com/military/a40298287/drone-fighting-ukraine-war-russia/">"There's an Army of Thieves Coming for Your Catalytic Converter"</a> for <em>Popular Mechanics</em>
 * <a href="https://www.popularmechanics.com/cars/a39813806/theres-an-army-of-thieves-coming-for-your-catalytic-converter/">"Every. Single. Drone. Fighting In Russia's War Against Ukraine"</a> for <em>Popular Mechanics</em>
 * <a href="https://www.marieclaire.com/fashion/sustainable-denim/">"Sustainable Denim"</a> for <em>Marie Claire</em>
 <br>
+* <a href="https://www.vox.com/the-goods/22760163/steroids-hgh-hollywood-actors-peds-performance-enhancing-drugs">"Performance Enhancing Drugs: The Open Secret to Looking like a Superhero"</a> for <em>Vox</em>
 
 ## Podcasts
 * forthcoming podcast, Sirius XM
