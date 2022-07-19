@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fact-checking
-permalink: /factchecking/
+permalink: /Factchecking/
 ---
 
 Since 2020 I have been editing and fact-checking books, articles, podcasts, and periodicals. I have worked with brands such as <em>The Verge</em>, <em>Vox</em>, <em>The New Yorker</em>, <em>Popular Mechanics</em>, <em>Bicycling</em>, <em>Runner's World</em>, <em>Marie Claire</em>, and many others. If you are in need of fact-checking services, reach out to me for a quote at serena.solin@gmail.com.
