@@ -5,7 +5,7 @@ date: '2022-7-20'
 tags: [mypoems]
 ---
 
-![bug](/assets/bug.jpg)
+![bug](/assets/bug.png)
 
 It occurred in two phases:<br>
 quiet years of the life aquatic<br>
