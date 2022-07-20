@@ -27,7 +27,6 @@ permalink: /Writing/
 * "Exposed Fragments of Sculpture" in <a href="https://www.fenceportal.org/"><em>Fence</em> #35</a>
 * "Impasse" and "Cold Pastoral" in <a href="http://www.tammyjournal.com/new-page"><em>tammy</em> #9</a>
 * Essay on random number generators in <a href="https://thespectacle.wustl.edu/?p=1259"><em>The Spectacle</em></a>
-* Curated a folio of Midwest poetry, "Beautiful Open Prairie" at <a href="https://www.natbrut.com/beautiful-open-prairie"><em>Nat. Brut</em></a>
 <br>
  
 ## 2018 & earlier
