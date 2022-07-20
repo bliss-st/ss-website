@@ -6,7 +6,6 @@ permalink: /Writing/
 
 ## 2022
 * "Shift," "Click," and "From a Photograph" at <em><a href="https://tygerquarterly.com/Serena-Solin">Tyger Quarterly</a></em>
-* <em>Solar Inverter</em>, a chapbook forthcoming from Bottlecap Press
 * "The Squint," forthcoming in <em>Heavy Feather</em>
 <br>
 
