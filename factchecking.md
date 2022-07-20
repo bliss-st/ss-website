@@ -4,7 +4,7 @@ title: Fact-checking
 permalink: /Factchecking/
 ---
 
-Since 2020 I have been fact-checking books, articles, podcasts, and periodicals for brands such as <em>The Verge</em>, <em>Vox</em>, <em>The New Yorker</em>, <em>Popular Mechanics</em>, <em>Bicycling</em>, <em>Runner's World</em>, <em>Marie Claire</em>, and many others. I enjoy delving deeply into niche topics, from the metal scrapping industry to doorbells to steroids, and I'm particularly interested in environmental reporting. I also edit, design, typeset, & manage web presences for magazines & books of poetry in conjunction with <em><a href="worldpoetrybooks.com">World Poetry Books</a></em>, <em><a href="natbrut.com">Nat. Brut</a></em>, and elsewhere.<br><br>If you are in need of fact-checking or editing services, reach out to me for a quote at serena.solin@gmail.com.
+Since 2020 I have been fact-checking books, articles, podcasts, and periodicals for brands such as <em>The Verge</em>, <em>Vox</em>, <em>Popular Mechanics</em>, <em>Bicycling</em>, <em>Runner's World</em>, <em>Marie Claire</em>, and many others. I enjoy delving deeply into niche topics, from the metal scrapping industry to doorbells to steroids, and I'm particularly interested in environmental reporting. I also edit, design, typeset, & manage web presences for magazines & books of poetry in conjunction with <em><a href="worldpoetrybooks.com">World Poetry Books</a></em>, <em><a href="natbrut.com">Nat. Brut</a></em>, and elsewhere.<br><br>If you are in need of fact-checking or editing services, reach out to me for a quote at serena.solin@gmail.com.
 
 <br>
 
