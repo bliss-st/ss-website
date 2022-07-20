@@ -36,4 +36,5 @@ Since 2020 I have been fact-checking books, articles, podcasts, and periodicals 
 <br>
 
 ## Miscellaneous
+* editor at <em><a href="https://uglyducklingpresse.org/publications/second-factory-issue-three/">Second Factory</a></em>, the annual poetry & visual art periodical of Ugly Duckling Presse
 * fact-checking and editing for <em><a href="https://www.gossamer.co/">Gossamer</a></em>, issues 8 and 9
