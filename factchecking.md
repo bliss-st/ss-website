@@ -11,7 +11,7 @@ Since 2020 I have been fact-checking books, articles, podcasts, and periodicals 
 ## Selected Articles
 * <a href="https://www.mic.com/impact/dads-against-sexual-predators-youtube">"Dads Against Predators"</a> for <em>Mic.com</em>
 * <a href="https://www.theverge.com/c/22925906/pornhub-mindgeek-content-moderation">"Inside Pornhub"</a> for <em>The Verge</em>
-* <a href="https://www.theverge.com/c/23138305/ebird-cornell-lab-birding-climate-change-research">"A Once in a Lifetime Bird"</a> for <em>The Verge</em>
+* <a href="https://www.theverge.com/c/23138305/ebird-cornell-lab-birding-climate-change-research">"A Once-in-a-Lifetime Bird"</a> for <em>The Verge</em>
 * <a href="https://www.theverge.com/c/23157354/doctor-donor-fertility-fraud-ancestry-23andme-dna-test">"Donor Doctor Fertility Fraud"</a> for <em>The Verge</em>
 * <a href="https://www.popularmechanics.com/technology/a36367690/humans-develop-sixth-sense-echolocation/">"Humans Could Develop a Sixth Sense, Scientists Say"</a> for <em>Popular Mechanics</em>
 * <a href="https://www.popularmechanics.com/military/a40298287/drone-fighting-ukraine-war-russia/">"Every. Single. Drone. Fighting In Russia's War Against Ukraine"</a> for <em>Popular Mechanics</em>
@@ -38,3 +38,4 @@ Since 2020 I have been fact-checking books, articles, podcasts, and periodicals 
 ## Miscellaneous
 * editor at <em><a href="https://uglyducklingpresse.org/publications/second-factory-issue-three/">Second Factory</a></em>, the annual poetry & visual art periodical of Ugly Duckling Presse
 * fact-checking and editing for <em><a href="https://www.gossamer.co/">Gossamer</a></em>, issues 8 and 9
+* editorial production at <em>The New Yorker</em>, 2018-2019
