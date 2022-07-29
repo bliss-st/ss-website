@@ -18,6 +18,7 @@ permalink: /Writing/
 * "The Courtyard" and "Double Jeopardy" at <a href="https://www.hobartpulp.com/web_features/double-jeopardy"><em>Hobart</em></a>
 * "Disappearing" and "You Drive" at <a href="http://sixthfinch.com/solin2.html"><em>Sixth Finch</em></a>
 * "Sunglasses" at <a href="https://www.dreampoppress.net/serena-solin/"><em>Dream Pop Journal</em></a>
+* Essay on Aase Berg's <em>Transfer Fat</em> for Ugly Duckling Presse's <a href="https://medium.com/ugly-duckling-presse/backlist-bulletin-1-transfer-fat-2e2e1548c7bf">Backlist Bulletin</a>
 * Interview with Maryam Monalisa Gharavi at <a href="https://www.asymptotejournal.com/blog/2020/09/21/sadness-has-no-end-happiness-does-an-interview-with-maryam-monalisa-gharavi/"><em>Asymptote</em></a> and <a href="https://www.poetrynw.org/interview-when-haptic-touch-is-removed-a-conversation-with-maryam-monalisa-gharavi/"><em>Poetry Northwest</em></a>
 <br>
 
