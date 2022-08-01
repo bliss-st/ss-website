@@ -10,7 +10,8 @@ tags: [mypoems]
 It occurred in two phases:<br>
 quiet years of the life aquatic<br>
 then flight, for just a few hours,<br>
-before I died on the foamy shelf.<br>
+before I died on the foamy shelf<br>
+overlooking my bag of offspring.<br>
 To the dark water I reluctantly<br>
 return, over the worn stones<br>
 home where I am called, like<br>
