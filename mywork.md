@@ -5,7 +5,7 @@ permalink: /Writing/
 ---
 
 ## 2022
-* Essay on Robert Smithson's <em>Asphalt Rundown</em>, forthcoming as part of the Holt/Smithson Foundation's Scholarly Text series
+* Essay on Robert Smithson's <a href="https://holtsmithsonfoundation.org/asphalt-rundown-0"><em>Asphalt Rundown</em></a>, forthcoming as part of the Holt/Smithson Foundation's Scholarly Text series
 * "The Squint," forthcoming in <em>Heavy Feather</em>
 * "Shift," "Click," and "From a Photograph" at <em><a href="https://tygerquarterly.com/Serena-Solin">Tyger Quarterly</a></em>
 <br>
