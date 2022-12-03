@@ -4,7 +4,7 @@ title: Fact-checking
 permalink: /Factchecking/
 ---
 
-Since 2020 I have been fact-checking books, articles, podcasts, and periodicals for brands such as <em>The Verge</em>, <em>Vox</em>, <em>Popular Mechanics</em>, <em>Bicycling</em>, <em>Runner's World</em>, <em>Marie Claire</em>, and many others. I enjoy delving deeply into niche topics, from the metal scrapping industry to doorbells to steroids, and I'm particularly interested in environmental reporting. I also edit, design & typeset, & manage web presences for magazines and books of poetry in conjunction with <a href="worldpoetrybooks.com">World Poetry Books</a>, <em><a href="natbrut.com">Nat. Brut</a></em>, and elsewhere.<br><br>If you are in need of fact-checking or editing services, reach out to me for a quote at <a href="mailto:serena.solin@gmail.com">serena.solin@gmail.com.</a>
+Since 2020 I have been fact-checking books, articles, podcasts, and periodicals for brands such as <em>The Verge</em>, <em>Vox</em>, <em>Popular Mechanics</em>, <em>Bicycling</em>, <em>Runner's World</em>, <em>Marie Claire</em>, and many others. I enjoy delving deeply into niche topics, from the metal scrapping industry to doorbells to steroids, and I'm particularly interested in environmental reporting. I also work in various capacities with <a href="http://www.uglyducklingpresse.org">Ugly Duckling Presse</a>, <a href="http://www.worldpoetrybooks.com">World Poetry Books</a>, <em><a href="http://www.natbrut.com">Nat. Brut</a></em>, and <a href="http://www.thequarterlessreview.com"><em>The Quarterless Review</em></a>.<br><br>If you are in need of fact-checking or editing services, reach out to me for a quote at <a href="mailto:serena.solin@gmail.com">serena.solin@gmail.com.</a>
 
 <br>
 
@@ -32,7 +32,7 @@ Since 2020 I have been fact-checking books, articles, podcasts, and periodicals 
 * fact-checking for forthcoming Jenn Shapland title (Pantheon, 2023)
 * editorial projects for recent titles from <a href="worldpoetrybooks.com">World Poetry Books</a>
 * fact-checking and editing for <em>Dance Theatre of Harlem: A History, A Movement, A Celebration</em> (Kensington, 2021)
-* editing, typesetting, and design for Åke Hodell's <a href="https://uglyducklingpresse.org/publications/the-marathon-poet/"><em>The Marathon Poet</em></a> as well as other Ugly Duckling Presse titles (2019-2020)
+* editing, typesetting, and design for Åke Hodell's <a href="https://uglyducklingpresse.org/publications/the-marathon-poet/"><em>The Marathon Poet</em></a> as well as other Ugly Duckling Presse titles
 <br>
 
 ## Miscellaneous
