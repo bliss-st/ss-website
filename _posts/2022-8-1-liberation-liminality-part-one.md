@@ -31,7 +31,7 @@ The theme of Nael’s poem is liberation, not coincidentally a theme often depic
 
 Like liberation, liminality is a common subject of contemporary poetry (by which I mean the poetry of adults, but I wouldn’t be surprised if the idea had long since percolated down to the pre-collegiate level). The experience of crossing a threshold serves as an allegory for life’s ever-more-frequent transitory moments. Much like “disassociation,” which once meant utter ego death and depersonalization and now means something more like “spacing out,” “the liminal” has come to indicate any space or time in which a person does not feel settled. The quiet desolation of stairwells, motels, abandoned buildings, empty living rooms—really any David Lynch set—stands in for endemic unease and loneliness. 
 
-An example in of the liminal in contemporary poetry is “The End of the World” by Clarence Major, published by <em>The New Yorker</em> at the end of 2021:
+An example of liminality as it is practiced in contemporary poetry is “The End of the World” by Clarence Major, published by <em>The New Yorker</em> at the end of 2021:
 <blockquote>
 I look out the window<br>
 at a silent dark night—a night of blue<br>
