@@ -25,9 +25,9 @@ Yes<br>
 YES<br>
 The tiger is out
 </blockquote>
-Infinitely viral, six-year-old Nael’s poem is riddling—the title the solution—but not a riddle, the tiger’s cage thrown open. Nael is capable of the poetic blotting out of time (compression into pure present), and even anaphora (stylized repetition). This little poem is triumphant, and so succinctly accomplished that it gives even the cynical hope for poetry.
+Infinitely viral, six-year-old Nael’s poem is riddling—the title the solution—but not a riddle, the tiger’s cage thrown open. Nael is capable of the poetic blotting out of time (compression into pure present), and even anaphora (stylized repetition). 
 
-The theme of Nael’s poem is liberation, not coincidentally a theme often depicted in children’s media (and increasingly in popular media aimed at adults, as the two continue to consume each other). Liberation—often in the form of independence from societal expectation—is a moral right, to be won or even violently seized, in countless children’s books and movies. Why shouldn’t a rat be free to pursue a career as a chef?
+The theme of Nael’s poem is liberation, not coincidentally a theme often depicted in children’s media (and increasingly in media aimed at adults, as the two continue to consume each other). Liberation—often in the form of independence from societal expectation—is a moral right, to be won or even violently seized, in countless children’s books and movies. Why shouldn’t a rat be free to pursue a career as a chef? More on this in part two.
 
 Like liberation, liminality is a common subject of contemporary poetry (by which I mean the poetry of adults, but I wouldn’t be surprised if the idea had long since percolated down to the pre-collegiate level). The experience of crossing a threshold serves as an allegory for life’s ever-more-frequent transitory moments. Much like “disassociation,” which once meant utter ego death and depersonalization and now means something more like “spacing out,” “the liminal” has come to indicate any space or time in which a person does not feel settled. The quiet desolation of stairwells, motels, abandoned buildings, empty living rooms—really any David Lynch set—stands in for endemic unease and loneliness. 
 
