@@ -6,6 +6,7 @@ tags: []
 ---
 
 ![deer](/assets/liblim1.jpg)
+<em><a href="https://www.youtube.com/watch?v=no_elVGGgW8">https://www.youtube.com/watch?v=no_elVGGgW8</a></em>
 
 “Poems are not riddles,” a poetry professor once said to me. Her task was to produce five graduate students a year capable of writing a palatable thirty to sixty pages of poetry—no small project, more easily accomplished by edicts than koans. Other of her directives included the omission of any words pertaining to food or bodily functions, as well as a visual pleasantness on the page—all to say, a well-advised neatness. Writing with these rules had improved my poetry, but I was less willing to accept “poems are not riddles” on its face. 
 
