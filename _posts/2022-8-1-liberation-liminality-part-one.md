@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Two Failures of Contemporary Poetry: Liberation and Liminality, Part 1"
+title: "Two Failures of Poetry: Liberation and Liminality, Part 1"
 date: '2022-8-1'
 tags: []
 ---
