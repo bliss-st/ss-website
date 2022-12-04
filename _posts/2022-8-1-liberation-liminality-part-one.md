@@ -6,9 +6,10 @@ tags: []
 ---
 
 ![deer](/assets/liblim1.jpg)
-<br>
-<em><a href="https://www.youtube.com/watch?v=no_elVGGgW8">https://www.youtube.com/watch?v=no_elVGGgW8</a></em>
-<br>
+
+<br><em><a href="https://www.youtube.com/watch?v=no_elVGGgW8">https://www.youtube.com/watch?v=no_elVGGgW8</a></em>
+
+<br><br>
 “Poems are not riddles,” a poetry professor once said to me. Her task was to produce five graduate students a year capable of writing a palatable thirty to sixty pages of poetry—no small project, more easily accomplished by edicts than koans. Other of her directives included the omission of any words pertaining to food or bodily functions, as well as a visual pleasantness on the page—all to say, a well-advised neatness. Writing with these rules had improved my poetry, but I was less willing to accept “poems are not riddles” on its face. 
 
 The ability to sustain a sense of the indefinite in writing is the first quest of a poet. If mastered, this skill is generally enough to buoy the poet through decades of schooling (i.e., enough to pass through the turnstiles of the university library). The problem comes when a reader (if there is a reader) seeks in the poet’s work a clarity of thought, in fact depends upon the poet’s clarity of thought (clarity not being quite the same as reason or sense, of course) to power the lyric engine. Those who can think and express themselves clearly and those who have chosen to write poetry only occasionally overlap. One could argue that those with a clear understanding of the world around them typically have no need to write poetry, as they have found more straightforward ways of “marrying their lives to their lives,” in the words of Wendy Battin. 
