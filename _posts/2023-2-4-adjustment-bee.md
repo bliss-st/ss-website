@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "Poem from Adjustment You Walk Away Again”"
-date: '2023-2-24'
+date: '2023-2-4'
 tags: []
 ---
 
-![solar](/assets/roof.jpeg)
+![roof](/assets/roof.jpeg)
+<em>No winter this year in New York.</em>
+<br><br>
 
 It is too late to falter in our walk into the eyes<br>
 <br>
