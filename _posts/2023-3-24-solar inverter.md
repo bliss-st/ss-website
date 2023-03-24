@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Solar Inverter"
-date: '2023-3-34'
+date: '2023-3-24'
 tags: []
 ---
 
