@@ -7,4 +7,4 @@ tags: []
 
 ![solar](/assets/solar.png)
 
-I have a chapbook out. You can buy it here: https://bottlecap.press/products/solar
+I have a chapbook out. You can buy it <a href="https://serenasol.in/2023/03/solar-inverter">here</a>.
