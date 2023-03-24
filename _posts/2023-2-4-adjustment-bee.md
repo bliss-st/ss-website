@@ -6,9 +6,9 @@ tags: []
 ---
 
 ![roof](/assets/roof.jpeg)
-<em>No winter this year in New York.</em>
-<br><br>
 
+<em>No winter again this year in New York.</em>
+<br><br>
 It is too late to falter in our walk into the eyes<br>
 <br>
 We ascend the stairs then cling to the rungs<br>
