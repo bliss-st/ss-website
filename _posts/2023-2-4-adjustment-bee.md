@@ -2,7 +2,7 @@
 layout: post
 title: "Poem from “Adjustment You Walk Away Again”"
 date: '2023-2-4'
-tags: []
+tags: [mypoems]
 ---
 
 ![roof](/assets/roof.jpeg)
