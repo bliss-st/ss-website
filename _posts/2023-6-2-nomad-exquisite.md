@@ -5,7 +5,7 @@ date: '2023-6-2'
 tags: []
 ---
 
-![canal](/assets/stevens.jpg)
+![canal](/assets/stevens.gif)
 
 As the immense dew of Florida<br>
 Brings forth<br>
