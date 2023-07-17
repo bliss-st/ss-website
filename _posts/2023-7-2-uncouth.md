@@ -7,8 +7,6 @@ tags: [mypoems]
 
 ![marfa](/assets/marfa.jpg)
 
-<p><em>Light in Marfa</em></p>
-
 <h4>Uncouth</h4>
 
 rust road<br>
