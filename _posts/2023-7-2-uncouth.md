@@ -5,7 +5,7 @@ date: '2023-7-12'
 tags: [mypoems]
 ---
 
-![marfa](/assets/marfa.jpg)
+![marfa](/assets/marfa.png)
 
 <em>Uncouth</em>
 
