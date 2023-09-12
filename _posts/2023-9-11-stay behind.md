@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "The Stay Behind"
+title: "<em>The Stay Behind</em>"
 date: '2023-9-12'
-tags: [mypoems]
+tags: []
 ---
 
 ![chap](/assets/chap.png)
