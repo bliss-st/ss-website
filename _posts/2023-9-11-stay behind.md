@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "<em>The Stay Behind</em>"
+title: "The Stay Behind"
 date: '2023-9-12'
 tags: []
 ---
