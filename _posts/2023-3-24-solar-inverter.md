@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Solar Inverter"
+title: "Chapbook: Solar Inverter"
 date: '2023-3-24'
 tags: []
 ---

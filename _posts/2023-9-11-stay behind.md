@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Stay Behind"
+title: "Chapbook: The Stay Behind"
 date: '2023-9-12'
 tags: []
 ---
