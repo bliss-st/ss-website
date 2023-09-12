@@ -7,4 +7,4 @@ tags: []
 
 ![solar](/assets/solar.png)
 
-I have a chapbook out. You can buy it <a href="https://bottlecap.press/products/solar">here</a>.
+I have a chapbook out on Bottlecap Press. You can buy it <a href="https://bottlecap.press/products/solar">here</a>.
