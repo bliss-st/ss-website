@@ -7,6 +7,6 @@ tags: []
 
 ![chap](/assets/chap.png)
 
-Hi everyone, excited to announce I have a chapbook coming out on Beautiful Days Press on Oct 1. 
+Hi everyone, excited to announce I have a chapbook coming out on <a href="https://beautifuldayspress.com/">Beautiful Days Press</a> on Oct 1. 
 
 There will be a joint launch with Alana, whose chapbook <em><a href="https://bottlecap.press/products/ribbon?_pos=1&_sid=c4e682c92&_ss=r">A Ribbon with No Tail</a></em> is out on Bottlecap, featuring m.s. RedCherries, and Marine Cornuet, at Unnameable Books in Brooklyn on Oct 17 at 7pm. 
